@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.11.7)  8 NOV 2026 23:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.11.7)  9 NOV 2026 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -921,14 +921,19 @@ Package pdftex.def Info: imagens/estagio.png  used on input line 49.
 ] [3
 
 ]
-<imagens/nalva.png, id=74, 881.2925pt x 547.04375pt>
-File: imagens/nalva.png Graphic file (type png)
-<use imagens/nalva.png>
-Package pdftex.def Info: imagens/nalva.png  used on input line 79.
-(pdftex.def)             Requested size: 308.45699pt x 191.46817pt.
- [4
+<imagens/nalva2.png, id=74, 1393.205pt x 765.86125pt>
+File: imagens/nalva2.png Graphic file (type png)
+<use imagens/nalva2.png>
+Package pdftex.def Info: imagens/nalva2.png  used on input line 79.
+(pdftex.def)             Requested size: 348.3004pt x 191.46484pt.
 
- <./imagens/nalva.png>] [5
+Overfull \hbox (7.6048pt too wide) in paragraph at lines 79--79
+ [][] 
+ []
+
+[4
+
+ <./imagens/nalva2.png>] [5
 
 ]
 <imagens/gincana.png, id=94, 689.57625pt x 862.22125pt>
@@ -981,7 +986,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  22903 strings out of 469421
- 437424 string characters out of 5467709
+ 437431 string characters out of 5467709
  826301 words of memory out of 5000000
  51100 multiletter control sequences out of 15000+600000
  633681 words of font info for 50 fonts, out of 8000000 for 9000
@@ -995,9 +1000,9 @@ pen/ec/ecss0600.600pk> </home/ovictorjo/.texlive2025/texmf-var/fonts/pk/ljfour/
 jknappen/ec/ecss0800.600pk> </home/ovictorjo/.texlive2025/texmf-var/fonts/pk/lj
 four/jknappen/ec/ecss1200.600pk> </home/ovictorjo/.texlive2025/texmf-var/fonts/
 pk/ljfour/jknappen/ec/ecss1728.600pk>
-Output written on main.pdf (9 pages, 2821252 bytes).
+Output written on main.pdf (9 pages, 3588830 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
+ 367 PDF objects out of 1000 (max. 8388607)
  119 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
