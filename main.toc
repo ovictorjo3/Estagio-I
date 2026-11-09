@@ -1,0 +1,6 @@
+\babel@toc {brazil}{}\relax 
+\beamer@sectionintoc {1}{Dados Gerais}{2}{0}{1}
+\beamer@sectionintoc {2}{PIBID - Parte I}{3}{0}{2}
+\beamer@sectionintoc {3}{PIBID - PARTE II}{5}{0}{3}
+\beamer@sectionintoc {4}{Destaques da Escola}{6}{0}{4}
+\beamer@sectionintoc {5}{Referência}{9}{0}{5}
